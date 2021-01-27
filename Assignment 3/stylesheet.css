@@ -1,0 +1,37 @@
+*{
+background-color: seashell;
+margin: 5%;
+}
+
+header{
+
+}
+
+img{
+
+    width: 300px;
+}
+
+h1{
+
+    font-size: 5em;
+    font-family: cursive;
+    color: purple;
+
+}
+
+h2{
+
+    font-size: 2em;
+    font-family: cursive;
+    color: purple;
+
+}
+
+.workexp {
+    border-style: solid;
+    padding: 5%;
+    text-align: left;
+
+
+}
