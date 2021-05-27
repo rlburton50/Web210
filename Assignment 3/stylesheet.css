@@ -1,0 +1,53 @@
+body{
+background-color: seashell;
+margin: 20px;
+font-family: 'Roboto', sans-serif;
+}
+
+.content-wrap{
+width: 900px;
+margin: 0 auto;
+
+
+}
+
+header{
+
+}
+
+img{
+
+    width: 300px;
+}
+
+h1{
+
+    font-size: 5em;
+    font-family: 'Dancing Script', cursive;
+    color: purple;
+
+}
+
+h2{
+
+    font-size: 2em;
+    text-shadow: 2px 2px salmon;
+    font-family: 'Dancing Script', cursive;
+    color: purple;
+
+}
+
+.workexp {
+    display:inline-block;
+    border-style: solid;
+  background: rgb(209, 202, 209);
+    padding: 5%;
+    max-width: 300px;
+
+}
+.content-wrap {
+width: 950px;
+margin: 0 auto;
+padding: 5px;
+
+}
